@@ -1,0 +1,11 @@
+C:\Users\Tariq\source\repos\PracticeSolution\PracticeSolution\bin\Debug\netcoreapp3.0\PracticeSolution.exe
+C:\Users\Tariq\source\repos\PracticeSolution\PracticeSolution\bin\Debug\netcoreapp3.0\PracticeSolution.deps.json
+C:\Users\Tariq\source\repos\PracticeSolution\PracticeSolution\bin\Debug\netcoreapp3.0\PracticeSolution.runtimeconfig.json
+C:\Users\Tariq\source\repos\PracticeSolution\PracticeSolution\bin\Debug\netcoreapp3.0\PracticeSolution.runtimeconfig.dev.json
+C:\Users\Tariq\source\repos\PracticeSolution\PracticeSolution\bin\Debug\netcoreapp3.0\PracticeSolution.dll
+C:\Users\Tariq\source\repos\PracticeSolution\PracticeSolution\bin\Debug\netcoreapp3.0\PracticeSolution.pdb
+C:\Users\Tariq\source\repos\PracticeSolution\PracticeSolution\obj\Debug\netcoreapp3.0\PracticeSolution.csprojAssemblyReference.cache
+C:\Users\Tariq\source\repos\PracticeSolution\PracticeSolution\obj\Debug\netcoreapp3.0\PracticeSolution.AssemblyInfoInputs.cache
+C:\Users\Tariq\source\repos\PracticeSolution\PracticeSolution\obj\Debug\netcoreapp3.0\PracticeSolution.AssemblyInfo.cs
+C:\Users\Tariq\source\repos\PracticeSolution\PracticeSolution\obj\Debug\netcoreapp3.0\PracticeSolution.dll
+C:\Users\Tariq\source\repos\PracticeSolution\PracticeSolution\obj\Debug\netcoreapp3.0\PracticeSolution.pdb
