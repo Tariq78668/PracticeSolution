@@ -174,6 +174,10 @@ namespace PracticeSolution
                 Console.WriteLine();
             }
 
+
+
+            Console.WriteLine("Added through Git Test");
+
         }
     }
 }
